@@ -75,4 +75,3 @@ Contém a versão escrita do trabalho, com metodologia, resultados e conclusões
 - Análise de mercado baseada em dados reais
 - Código organizado e comentado
 - Relatório técnico replicável
-# sports_analytics
