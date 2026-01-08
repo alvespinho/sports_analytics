@@ -31,7 +31,7 @@ projeto_final_footure/
 │
 └── reports/
     └── Relatorio_Final_Daniel.pdf
-``
+``` 
 ## O que há em cada pasta
 
 ### `assets/`
